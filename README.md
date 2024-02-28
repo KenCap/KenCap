@@ -1,4 +1,6 @@
 
+##what I am about
+
 Welcome one and all
 
 Hello visitors, my name is [*****]. I'm currently a student learning web development and web design. Focusing more on the design side.
